@@ -1,4 +1,4 @@
-```ruby
+```python
 import random
 from collections import deque
 ```
